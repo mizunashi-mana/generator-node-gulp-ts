@@ -1,0 +1,7 @@
+# for destinations
+/dist/
+/test-dist/
+
+# for NPM
+node_modules/
+npm-debug.log*
